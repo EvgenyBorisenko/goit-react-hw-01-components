@@ -43,5 +43,5 @@
     "lint-staged": "^9.2.5",
     "prettier": "^1.18.2"
   },
-  "homepage": "https://evgenyborisenko.github.io/goit-react/HomeWork/homework_01/build"
+  "homepage": "https://evgenyborisenko.github.io/goit-react-hw-01-components/build"
 }
