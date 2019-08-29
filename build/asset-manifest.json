@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goit-react/HomeWork/homework_01/build/static/css/main.77a0f4d9.chunk.css",
+    "main.js": "/goit-react/HomeWork/homework_01/build/static/js/main.dd871262.chunk.js",
+    "main.js.map": "/goit-react/HomeWork/homework_01/build/static/js/main.dd871262.chunk.js.map",
+    "runtime~main.js": "/goit-react/HomeWork/homework_01/build/static/js/runtime~main.51ef565e.js",
+    "runtime~main.js.map": "/goit-react/HomeWork/homework_01/build/static/js/runtime~main.51ef565e.js.map",
+    "static/js/2.c1c0e002.chunk.js": "/goit-react/HomeWork/homework_01/build/static/js/2.c1c0e002.chunk.js",
+    "static/js/2.c1c0e002.chunk.js.map": "/goit-react/HomeWork/homework_01/build/static/js/2.c1c0e002.chunk.js.map",
+    "index.html": "/goit-react/HomeWork/homework_01/build/index.html",
+    "precache-manifest.e1be503c5d23fea28cc1f50811c40544.js": "/goit-react/HomeWork/homework_01/build/precache-manifest.e1be503c5d23fea28cc1f50811c40544.js",
+    "service-worker.js": "/goit-react/HomeWork/homework_01/build/service-worker.js",
+    "static/css/main.77a0f4d9.chunk.css.map": "/goit-react/HomeWork/homework_01/build/static/css/main.77a0f4d9.chunk.css.map"
+  }
+}
