@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import style from './Profile.module.css';
-// import Photo from '../../img/my-photo.jpg';
 
 const Profile = ({ propUser }) => {
   const { name, tag, location, avatar, stats } = propUser;

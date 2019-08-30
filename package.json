@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "gh": "^1.17.5",
+    "gh-pages": "^2.1.1",
     "pages": "0.0.16",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
@@ -17,7 +18,9 @@
     "eject": "react-scripts eject",
     "lint": "eslint src/**/*.js",
     "lint:fix": "eslint src/**/*.js --fix",
-    "lint:format": "prettier src/**/*.{js,css,json} --write"
+    "lint:format": "prettier src/**/*.{js,css,json} --write",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,5 +48,5 @@
     "lint-staged": "^9.2.5",
     "prettier": "^1.18.2"
   },
-  "homepage": "https://evgenyborisenko.github.io/goit-react-hw-01-components/build"
+  "homepage": "https://evgenyborisenko.github.io/goit-react-hw-01-components/"
 }

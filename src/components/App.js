@@ -1,6 +1,10 @@
 import React from 'react';
 import Profile from './Profile/Profile';
 import Stats from './Stats/Stats';
+import PricingPlan from './PricingPlan/PricingPlan';
+import pricingItem from './PricingItem/pricingItem.json';
+import TransactionHistory from './TransactionHistory/TransactionHistory';
+import transactions from './TransactionHistory/TransactionHistory.json';
 
 const user = {
   name: 'Jacques Gluke',
@@ -28,6 +32,8 @@ function App() {
     <div className="App">
       <Profile propUser={user} />
       <Stats title="Upload stats" stats={stats} />
+      <PricingPlan items={pricingItem} />
+      <TransactionHistory items={transactions} />,
     </div>
   );
 }
